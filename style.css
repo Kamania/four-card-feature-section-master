@@ -94,7 +94,7 @@ body {
 
 @media only screen and (min-width: 992px){
     .container{
-        min-width: 992px;
+        min-width: 1200px;
     }
 
     .header-section{
